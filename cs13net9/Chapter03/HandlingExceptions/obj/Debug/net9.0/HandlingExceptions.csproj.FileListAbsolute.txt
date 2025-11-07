@@ -1,0 +1,14 @@
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/HandlingExceptions/bin/Debug/net9.0/HandlingExceptions
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/HandlingExceptions/bin/Debug/net9.0/HandlingExceptions.deps.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/HandlingExceptions/bin/Debug/net9.0/HandlingExceptions.runtimeconfig.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/HandlingExceptions/bin/Debug/net9.0/HandlingExceptions.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/HandlingExceptions/bin/Debug/net9.0/HandlingExceptions.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.AssemblyInfoInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.AssemblyInfo.cs
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.csproj.CoreCompileInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/refint/HandlingExceptions.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.genruntimeconfig.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/HandlingExceptions/obj/Debug/net9.0/ref/HandlingExceptions.dll

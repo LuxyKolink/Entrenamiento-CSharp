@@ -1,0 +1,14 @@
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/WritingFunctions/bin/Debug/net9.0/WritingFunctions
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/WritingFunctions/bin/Debug/net9.0/WritingFunctions.deps.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/WritingFunctions/bin/Debug/net9.0/WritingFunctions.runtimeconfig.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/WritingFunctions/bin/Debug/net9.0/WritingFunctions.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/WritingFunctions/bin/Debug/net9.0/WritingFunctions.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.AssemblyInfoInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.AssemblyInfo.cs
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/refint/WritingFunctions.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.genruntimeconfig.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/WritingFunctions/obj/Debug/net9.0/ref/WritingFunctions.dll

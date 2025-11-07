@@ -1,0 +1,14 @@
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Arrays/bin/Debug/net9.0/Arrays
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Arrays/bin/Debug/net9.0/Arrays.deps.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Arrays/bin/Debug/net9.0/Arrays.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Arrays/bin/Debug/net9.0/Arrays.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Arrays/obj/Debug/net9.0/Arrays.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Arrays/obj/Debug/net9.0/Arrays.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Arrays/obj/Debug/net9.0/ref/Arrays.dll

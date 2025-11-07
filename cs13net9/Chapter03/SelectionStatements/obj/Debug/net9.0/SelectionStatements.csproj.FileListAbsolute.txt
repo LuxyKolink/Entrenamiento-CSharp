@@ -1,0 +1,14 @@
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/SelectionStatements/bin/Debug/net9.0/SelectionStatements
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/SelectionStatements/bin/Debug/net9.0/SelectionStatements.deps.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/SelectionStatements/bin/Debug/net9.0/SelectionStatements.runtimeconfig.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/SelectionStatements/bin/Debug/net9.0/SelectionStatements.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/SelectionStatements/bin/Debug/net9.0/SelectionStatements.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/SelectionStatements/obj/Debug/net9.0/SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/SelectionStatements/obj/Debug/net9.0/SelectionStatements.AssemblyInfoInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/SelectionStatements/obj/Debug/net9.0/SelectionStatements.AssemblyInfo.cs
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/SelectionStatements/obj/Debug/net9.0/SelectionStatements.csproj.CoreCompileInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/SelectionStatements/obj/Debug/net9.0/SelectionStatements.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/SelectionStatements/obj/Debug/net9.0/refint/SelectionStatements.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/SelectionStatements/obj/Debug/net9.0/SelectionStatements.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/SelectionStatements/obj/Debug/net9.0/SelectionStatements.genruntimeconfig.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/SelectionStatements/obj/Debug/net9.0/ref/SelectionStatements.dll

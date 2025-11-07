@@ -1,0 +1,14 @@
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Operators/bin/Debug/net9.0/Operators
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Operators/bin/Debug/net9.0/Operators.deps.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Operators/bin/Debug/net9.0/Operators.runtimeconfig.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Operators/bin/Debug/net9.0/Operators.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Operators/bin/Debug/net9.0/Operators.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Operators/obj/Debug/net9.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Operators/obj/Debug/net9.0/Operators.AssemblyInfoInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Operators/obj/Debug/net9.0/Operators.AssemblyInfo.cs
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Operators/obj/Debug/net9.0/Operators.csproj.CoreCompileInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Operators/obj/Debug/net9.0/Operators.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Operators/obj/Debug/net9.0/refint/Operators.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Operators/obj/Debug/net9.0/Operators.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Operators/obj/Debug/net9.0/Operators.genruntimeconfig.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Operators/obj/Debug/net9.0/ref/Operators.dll

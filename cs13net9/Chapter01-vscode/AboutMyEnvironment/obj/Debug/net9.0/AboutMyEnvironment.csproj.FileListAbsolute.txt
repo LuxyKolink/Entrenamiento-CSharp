@@ -1,0 +1,14 @@
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net9.0/AboutMyEnvironment
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net9.0/AboutMyEnvironment.deps.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net9.0/AboutMyEnvironment.runtimeconfig.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net9.0/AboutMyEnvironment.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net9.0/AboutMyEnvironment.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/AboutMyEnvironment.AssemblyInfoInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/AboutMyEnvironment.AssemblyInfo.cs
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/AboutMyEnvironment.csproj.CoreCompileInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/AboutMyEnvironment.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/refint/AboutMyEnvironment.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/AboutMyEnvironment.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/AboutMyEnvironment.genruntimeconfig.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net9.0/ref/AboutMyEnvironment.dll

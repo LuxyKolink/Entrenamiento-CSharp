@@ -1,0 +1,14 @@
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Formatting/bin/Debug/net9.0/Formatting
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Formatting/bin/Debug/net9.0/Formatting.deps.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Formatting/bin/Debug/net9.0/Formatting.runtimeconfig.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Formatting/bin/Debug/net9.0/Formatting.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Formatting/bin/Debug/net9.0/Formatting.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Formatting/obj/Debug/net9.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Formatting/obj/Debug/net9.0/Formatting.AssemblyInfoInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Formatting/obj/Debug/net9.0/Formatting.AssemblyInfo.cs
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Formatting/obj/Debug/net9.0/Formatting.csproj.CoreCompileInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Formatting/obj/Debug/net9.0/Formatting.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Formatting/obj/Debug/net9.0/refint/Formatting.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Formatting/obj/Debug/net9.0/Formatting.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Formatting/obj/Debug/net9.0/Formatting.genruntimeconfig.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Formatting/obj/Debug/net9.0/ref/Formatting.dll

@@ -1,0 +1,14 @@
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Arguments/bin/Debug/net9.0/Arguments
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Arguments/bin/Debug/net9.0/Arguments.deps.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Arguments/bin/Debug/net9.0/Arguments.runtimeconfig.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Arguments/bin/Debug/net9.0/Arguments.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Arguments/bin/Debug/net9.0/Arguments.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Arguments/obj/Debug/net9.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Arguments/obj/Debug/net9.0/Arguments.AssemblyInfoInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Arguments/obj/Debug/net9.0/Arguments.AssemblyInfo.cs
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Arguments/obj/Debug/net9.0/Arguments.csproj.CoreCompileInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Arguments/obj/Debug/net9.0/Arguments.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Arguments/obj/Debug/net9.0/refint/Arguments.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Arguments/obj/Debug/net9.0/Arguments.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Arguments/obj/Debug/net9.0/Arguments.genruntimeconfig.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Arguments/obj/Debug/net9.0/ref/Arguments.dll

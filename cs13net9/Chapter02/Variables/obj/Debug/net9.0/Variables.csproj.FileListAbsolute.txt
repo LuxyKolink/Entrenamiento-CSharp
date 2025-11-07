@@ -1,0 +1,14 @@
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Variables/obj/Debug/net9.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Variables/obj/Debug/net9.0/Variables.AssemblyInfoInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Variables/obj/Debug/net9.0/Variables.AssemblyInfo.cs
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Variables/obj/Debug/net9.0/Variables.csproj.CoreCompileInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Variables/bin/Debug/net9.0/Variables
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Variables/bin/Debug/net9.0/Variables.deps.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Variables/bin/Debug/net9.0/Variables.runtimeconfig.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Variables/bin/Debug/net9.0/Variables.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Variables/bin/Debug/net9.0/Variables.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Variables/obj/Debug/net9.0/Variables.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Variables/obj/Debug/net9.0/refint/Variables.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Variables/obj/Debug/net9.0/Variables.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Variables/obj/Debug/net9.0/Variables.genruntimeconfig.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Variables/obj/Debug/net9.0/ref/Variables.dll

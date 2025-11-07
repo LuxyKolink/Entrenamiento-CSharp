@@ -1,0 +1,14 @@
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/HelloCS/bin/Debug/net9.0/HelloCS
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/HelloCS/bin/Debug/net9.0/HelloCS.deps.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/HelloCS/bin/Debug/net9.0/HelloCS.runtimeconfig.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/HelloCS/bin/Debug/net9.0/HelloCS.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/HelloCS/bin/Debug/net9.0/HelloCS.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/HelloCS/obj/Debug/net9.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/HelloCS/obj/Debug/net9.0/HelloCS.AssemblyInfoInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/HelloCS/obj/Debug/net9.0/HelloCS.AssemblyInfo.cs
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/HelloCS/obj/Debug/net9.0/HelloCS.csproj.CoreCompileInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/HelloCS/obj/Debug/net9.0/HelloCS.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/HelloCS/obj/Debug/net9.0/refint/HelloCS.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/HelloCS/obj/Debug/net9.0/HelloCS.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/HelloCS/obj/Debug/net9.0/HelloCS.genruntimeconfig.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter01-vscode/HelloCS/obj/Debug/net9.0/ref/HelloCS.dll

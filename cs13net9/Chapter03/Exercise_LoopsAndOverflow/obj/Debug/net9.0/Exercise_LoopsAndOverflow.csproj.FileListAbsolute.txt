@@ -1,0 +1,14 @@
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Exercise_LoopsAndOverflow/bin/Debug/net9.0/Exercise_LoopsAndOverflow
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Exercise_LoopsAndOverflow/bin/Debug/net9.0/Exercise_LoopsAndOverflow.deps.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Exercise_LoopsAndOverflow/bin/Debug/net9.0/Exercise_LoopsAndOverflow.runtimeconfig.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Exercise_LoopsAndOverflow/bin/Debug/net9.0/Exercise_LoopsAndOverflow.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Exercise_LoopsAndOverflow/bin/Debug/net9.0/Exercise_LoopsAndOverflow.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/Exercise_LoopsAndOverflow.GeneratedMSBuildEditorConfig.editorconfig
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/Exercise_LoopsAndOverflow.AssemblyInfoInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/Exercise_LoopsAndOverflow.AssemblyInfo.cs
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/Exercise_LoopsAndOverflow.csproj.CoreCompileInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/Exercise_LoopsAndOverflow.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/refint/Exercise_LoopsAndOverflow.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/Exercise_LoopsAndOverflow.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/Exercise_LoopsAndOverflow.genruntimeconfig.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/Exercise_LoopsAndOverflow/obj/Debug/net9.0/ref/Exercise_LoopsAndOverflow.dll

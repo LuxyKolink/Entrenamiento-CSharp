@@ -1,0 +1,14 @@
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Numbers/bin/Debug/net9.0/Numbers
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Numbers/bin/Debug/net9.0/Numbers.deps.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Numbers/bin/Debug/net9.0/Numbers.runtimeconfig.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Numbers/bin/Debug/net9.0/Numbers.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Numbers/bin/Debug/net9.0/Numbers.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Numbers/obj/Debug/net9.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Numbers/obj/Debug/net9.0/Numbers.AssemblyInfoInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Numbers/obj/Debug/net9.0/Numbers.AssemblyInfo.cs
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Numbers/obj/Debug/net9.0/Numbers.csproj.CoreCompileInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Numbers/obj/Debug/net9.0/Numbers.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Numbers/obj/Debug/net9.0/refint/Numbers.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Numbers/obj/Debug/net9.0/Numbers.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Numbers/obj/Debug/net9.0/Numbers.genruntimeconfig.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter02/Numbers/obj/Debug/net9.0/ref/Numbers.dll

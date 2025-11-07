@@ -1,0 +1,14 @@
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/IterationStatements/bin/Debug/net9.0/IterationStatements
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/IterationStatements/bin/Debug/net9.0/IterationStatements.deps.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/IterationStatements/bin/Debug/net9.0/IterationStatements.runtimeconfig.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/IterationStatements/bin/Debug/net9.0/IterationStatements.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/IterationStatements/bin/Debug/net9.0/IterationStatements.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/IterationStatements.AssemblyInfoInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/IterationStatements.AssemblyInfo.cs
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/IterationStatements.csproj.CoreCompileInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/IterationStatements.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/refint/IterationStatements.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/IterationStatements.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/IterationStatements.genruntimeconfig.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter03/IterationStatements/obj/Debug/net9.0/ref/IterationStatements.dll

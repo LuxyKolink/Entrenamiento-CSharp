@@ -1,0 +1,11 @@
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/CalculatorLib/bin/Debug/net9.0/CalculatorLib.deps.json
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/CalculatorLib/bin/Debug/net9.0/CalculatorLib.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/CalculatorLib/bin/Debug/net9.0/CalculatorLib.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/CalculatorLib.AssemblyInfoInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/CalculatorLib.AssemblyInfo.cs
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/CalculatorLib.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/refint/CalculatorLib.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/CalculatorLib.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter04/CalculatorLib/obj/Debug/net9.0/ref/CalculatorLib.dll
