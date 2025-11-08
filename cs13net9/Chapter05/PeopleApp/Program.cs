@@ -80,3 +80,5 @@ WriteLine(format: "{0} earned {1:C} interest.",
 #endregion
 
 WriteLine($"{bob.Name} is a {Person.Species}.");
+
+WriteLine($"{bob.Name} was born on {bob.HomePlanet}");

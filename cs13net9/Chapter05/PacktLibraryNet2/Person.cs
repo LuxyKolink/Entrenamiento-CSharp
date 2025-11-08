@@ -15,5 +15,7 @@ public class Person
 
     public const string Species = "Homo Sapiens";
 
+    public readonly string HomePlanet = "Earth";
+
     #endregion
 }
