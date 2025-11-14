@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net9.0": {
+      "PacktLibraryModern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/PacktLibraryModern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PacktLibraryModern.dll": {}
+        }
+      },
       "PacktLibraryNet2/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "PacktLibraryModern/1.0.0": {
+      "type": "project",
+      "path": "../PacktLibraryModern/PacktLibraryModern.csproj",
+      "msbuildProject": "../PacktLibraryModern/PacktLibraryModern.csproj"
+    },
     "PacktLibraryNet2/1.0.0": {
       "type": "project",
       "path": "../PacktLibraryNet2/PacktLibraryNet2.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "PacktLibraryModern >= 1.0.0",
       "PacktLibraryNet2 >= 1.0.0"
     ]
   },
@@ -52,6 +68,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryModern/PacktLibraryModern.csproj": {
+              "projectPath": "/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryModern/PacktLibraryModern.csproj"
+            },
             "/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryNet2/PacktLibraryNet2.csproj": {
               "projectPath": "/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryNet2/PacktLibraryNet2.csproj"
             }
@@ -89,7 +108,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

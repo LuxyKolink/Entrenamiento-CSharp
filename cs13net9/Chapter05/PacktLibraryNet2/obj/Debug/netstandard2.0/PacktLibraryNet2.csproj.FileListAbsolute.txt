@@ -8,3 +8,4 @@
 /home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.csproj.CoreCompileInputs.cache
 /home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.dll
 /home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryNet2/obj/Debug/netstandard2.0/PacktLibraryNet2.sourcelink.json

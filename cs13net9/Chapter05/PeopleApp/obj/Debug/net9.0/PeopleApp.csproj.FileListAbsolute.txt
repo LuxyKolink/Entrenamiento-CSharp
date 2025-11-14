@@ -16,3 +16,6 @@
 /home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PeopleApp/obj/Debug/net9.0/PeopleApp.pdb
 /home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PeopleApp/obj/Debug/net9.0/PeopleApp.genruntimeconfig.cache
 /home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PeopleApp/obj/Debug/net9.0/ref/PeopleApp.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PeopleApp/bin/Debug/net9.0/PacktLibraryModern.dll
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PeopleApp/bin/Debug/net9.0/PacktLibraryModern.pdb
+/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PeopleApp/obj/Debug/net9.0/PeopleApp.sourcelink.json

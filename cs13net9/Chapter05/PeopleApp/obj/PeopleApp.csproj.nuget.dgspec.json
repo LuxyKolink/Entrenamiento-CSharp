@@ -4,6 +4,66 @@
     "/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PeopleApp/PeopleApp.csproj": {}
   },
   "projects": {
+    "/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryModern/PacktLibraryModern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryModern/PacktLibraryModern.csproj",
+        "projectName": "PacktLibraryModern",
+        "projectPath": "/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryModern/PacktLibraryModern.csproj",
+        "packagesPath": "/home/mgdev/.nuget/packages/",
+        "outputPath": "/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryModern/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mgdev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib64/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryNet2/PacktLibraryNet2.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -63,7 +123,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.111/RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -90,6 +150,9 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
+              "/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryModern/PacktLibraryModern.csproj": {
+                "projectPath": "/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryModern/PacktLibraryModern.csproj"
+              },
               "/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryNet2/PacktLibraryNet2.csproj": {
                 "projectPath": "/home/mgdev/Projects/Personal/CSharp/cs13net9/Chapter05/PacktLibraryNet2/PacktLibraryNet2.csproj"
               }
@@ -127,7 +190,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
